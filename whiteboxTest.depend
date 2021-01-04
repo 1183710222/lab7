@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609569332 source:d:\allcoding\c\whiteboxtest\main.c
+	<stdio.h>
+	<stdlib.h>
+
